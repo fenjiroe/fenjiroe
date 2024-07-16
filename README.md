@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elias Fenjiro
+- 👋 Hi, I’m @E Fenjiro
 - 👀 I’m interested in HPC, AI, RISC V, Blockchain....Etc
 - 🌱 I’m currently learning RISC V ISA
 - 💞️ I’m looking to collaborate on Blockchain developement and HPC Hardware design.
